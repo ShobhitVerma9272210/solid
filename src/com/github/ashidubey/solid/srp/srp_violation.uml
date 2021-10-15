@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.github.ashidubey.solid.srp.violation</OriginalElement>
+  <nodes>
+    <node x="276.0" y="-48.0">com.github.ashidubey.solid.srp.violation.Vehicle</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="375.5" y="-24.5" />
+  <SelectedNodes>
+    <node>com.github.ashidubey.solid.srp.violation.Vehicle</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

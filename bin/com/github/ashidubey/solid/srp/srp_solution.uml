@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.github.ashidubey.solid.srp.solution</OriginalElement>
+  <nodes>
+    <node x="-27.0" y="0.0">com.github.ashidubey.solid.srp.solution.FuelPump</node>
+    <node x="140.0" y="0.0">com.github.ashidubey.solid.srp.solution.Vehicle</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="47.0" y="40.0" />
+  <SelectedNodes>
+    <node>com.github.ashidubey.solid.srp.solution.FuelPump</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
